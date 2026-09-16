@@ -82,17 +82,18 @@ uptime:     24/7
 
 ## `> sudo systemctl status metrics`
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gillandghaz&show_icons=true&theme=radical&bg_color=0f0c29&title_color=00f0ff&icon_color=ff2e97&text_color=ffffff&border_color=b026ff&border_radius=10" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillandghaz&layout=compact&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&border_color=b026ff&border_radius=10" />
-</p>
+<!--
+  NOTE: the stats/top-langs and trophy cards that used to be here were
+  dropped. Their public instances (github-readme-stats.vercel.app and
+  github-profile-trophy.vercel.app) turned out to be dead (503 / 402
+  Payment Required, permanent, not just rate limits), and their working
+  mirrors are still shared public instances that could break again the
+  same way. Keeping only the streak card below since streak-stats.demolab.com
+  has stayed reliable throughout.
+-->
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=gillandghaz&theme=radical&background=0f0c29&ring=ff2e97&fire=00f0ff&currStreakLabel=00f0ff&border=b026ff&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gillandghaz&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
 </p>
 
 ---
@@ -113,13 +114,13 @@ uptime:     24/7
 
 <p align="center">
   <a href="mailto:gilland2015@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-gilland2015%40gmail.com-ff2e97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
+    <img src="https://img.shields.io/badge/EMAIL-gilland2015%40gmail.com-ff2e97?style=flat-square&labelColor=0f0c29" />
   </a>
   <a href="https://www.linkedin.com/in/gillandghazalihartono" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00f0ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
+    <img src="https://img.shields.io/badge/LINKEDIN-gillandghazalihartono-00f0ff?style=flat-square&labelColor=0f0c29" />
   </a>
   <a href="https://instagram.com/gillandghaz" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%40gillandghaz-b026ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-%40gillandghaz-b026ff?style=flat-square&labelColor=0f0c29" />
   </a>
 </p>
 
