@@ -2,7 +2,7 @@
      GILLANDGHAZ // NEURAL INTERFACE v2.0
      ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:ff2e97,100:00f0ff&height=220&section=header&text=GILLANDGHAZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5B%20SYSTEM%20ONLINE%20%5D&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,50:ff2e97,100:00f0ff&height=220&section=header&text=GILLANDGHAZ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5B%20SYSTEM%20ONLINE%20%5D&descAlignY=58&descSize=18&stroke=ffffff&strokeWidth=1" />
 
 <p align="center">
   <a href="https://github.com/gillandghaz">
@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/CLASS-STUDENT-ff2e97?style=for-the-badge&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-b026ff?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-0097a7?style=for-the-badge&labelColor=3a0ca3" />
+  <img src="https://img.shields.io/badge/CLASS-STUDENT-ff2e97?style=for-the-badge&labelColor=3a0ca3" />
+  <img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-b026ff?style=for-the-badge&labelColor=3a0ca3" />
   <img src="https://komarev.com/ghpvc/?username=gillandghaz&label=VISITORS&color=ff2e97&style=for-the-badge" />
 </p>
 
@@ -48,9 +48,9 @@ uptime:     24/7
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ACTIVE-ff2e97?style=flat-square&logo=openjdk&logoColor=white&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/Python-LOADING-00f0ff?style=flat-square&logo=python&logoColor=white&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/Vercel-DEPLOYED-b026ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/Java-ACTIVE-ff2e97?style=flat-square&logo=openjdk&logoColor=white&labelColor=3a0ca3" />
+  <img src="https://img.shields.io/badge/Python-LOADING-0097a7?style=flat-square&logo=python&logoColor=white&labelColor=3a0ca3" />
+  <img src="https://img.shields.io/badge/Vercel-DEPLOYED-b026ff?style=flat-square&logo=vercel&logoColor=white&labelColor=3a0ca3" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ uptime:     24/7
 
 <p align="center">
   <a href="https://gramofon-web.vercel.app">
-    <img src="https://img.shields.io/badge/GRAMOFON--WEB-LIVE%20DEPLOYMENT-00f0ff?style=for-the-badge&labelColor=0f0c29" />
+    <img src="https://img.shields.io/badge/GRAMOFON--WEB-LIVE%20DEPLOYMENT-0097a7?style=for-the-badge&labelColor=3a0ca3" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ uptime:     24/7
 <!-- Uncomment once the gramofon-web repo exists and is public, to pin the real repo card:
 <p align="center">
   <a href="https://github.com/gillandghaz/gramofon-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gillandghaz&repo=gramofon-web&theme=radical&bg_color=0f0c29&border_color=ff2e97&title_color=00f0ff&icon_color=ff2e97" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gillandghaz&repo=gramofon-web&theme=radical&bg_color=3a0ca3&border_color=ff2e97&title_color=00f0ff&icon_color=ff2e97" />
   </a>
 </p>
 -->
@@ -114,13 +114,13 @@ uptime:     24/7
 
 <p align="center">
   <a href="mailto:gilland2015@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-gilland2015%40gmail.com-ff2e97?style=flat-square&labelColor=0f0c29" />
+    <img src="https://img.shields.io/badge/EMAIL-gilland2015%40gmail.com-ff2e97?style=flat-square&labelColor=3a0ca3" />
   </a>
   <a href="https://www.linkedin.com/in/gillandghazalihartono" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-gillandghazalihartono-00f0ff?style=flat-square&labelColor=0f0c29" />
+    <img src="https://img.shields.io/badge/LINKEDIN-gillandghazalihartono-0097a7?style=flat-square&labelColor=3a0ca3" />
   </a>
   <a href="https://instagram.com/gillandghaz" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%40gillandghaz-b026ff?style=flat-square&labelColor=0f0c29" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-%40gillandghaz-b026ff?style=flat-square&labelColor=3a0ca3" />
   </a>
 </p>
 
@@ -128,7 +128,7 @@ uptime:     24/7
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=4000&pause=1000&color=FF2E97&center=true&vCenter=true&width=600&lines=%3E+connection+terminated.+stay+curious.;%3E+%22likes+to+experiment%22+--+gillandghaz" alt="footer typing" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff2e97,100:0f0c29&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff2e97,100:3a0ca3&height=140&section=footer&stroke=ffffff&strokeWidth=1" />
 
 
 
