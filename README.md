@@ -34,6 +34,8 @@ runtime:
 active_deployment:
   name: gramofon-web
   url:  https://gramofon-web.vercel.app
+  name: mycode-database
+  url:  https://mycode-database.vercel.app
 
 directive:  "likes to experiment"
 uptime:     24/7
@@ -58,8 +60,8 @@ uptime:     24/7
 ## `> cat ./projects/active.log`
 
 <p align="center">
-  <a href="https://gramofon-web.vercel.app">
-    <img src="https://img.shields.io/badge/GRAMOFON--WEB-LIVE%20DEPLOYMENT-0097a7?style=for-the-badge&labelColor=3a0ca3" />
+  <a href="https://github.com/gillandghaz?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-LIVE%20DEPLOYMENT-0097a7?style=for-the-badge&labelColor=3a0ca3" />
   </a>
 </p>
 
@@ -67,6 +69,8 @@ uptime:     24/7
 [SYS] scanning active deployments...
 [ OK ] gramofon-web ............ STATUS: LIVE
 [ >> ] https://gramofon-web.vercel.app
+[ OK ] mycode-database ............ STATUS: LIVE
+[ >> ] https://mycode-database.vercel.app
 [ .. ] next_project ............ STATUS: PENDING
 ```
 
